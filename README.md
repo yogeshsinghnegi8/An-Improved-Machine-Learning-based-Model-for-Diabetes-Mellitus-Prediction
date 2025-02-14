@@ -31,7 +31,7 @@ RandomizedSearchCV is used to tune hyperparameters, with the goal of improving t
 **Results & Conclusion**
 ---
 
-LightGBM with 10-Fold Stratified Cross-Validation outperformed all other models in diabetes prediction, with an accuracy of 93.42%. The results emphasize the importance of feature selection, data balance, and hyperparameter adjustment in enhancing classification performance.
+LightGBM with 10-Fold Stratified Cross-Validation outperformed all other models in diabetes prediction, with an accuracy of _**93.42%**_. The results emphasize the importance of feature selection, data balance, and hyperparameter adjustment in enhancing classification performance.
 
 Accurate diabetes prediction models may help healthcare practitioners with early diagnosis, risk assessment, and individualized treatment plans. The suggested technique, which combines machine learning and systematic data preparation, provides a scalable way for incorporating predictive analytics into clinical decision-making.
 
